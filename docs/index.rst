@@ -3,7 +3,7 @@ How to Login to Your IDrive Account Easily
 
 IDrive is a popular cloud storage and backup service that allows users to securely store and access their files online. It offers a variety of features that make it an excellent choice for both personal and business data storage needs. However, like many other online platforms, accessing your IDrive account may sometimes be a challenge, especially if you’ve forgotten your login credentials or are experiencing issues with the platform.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
