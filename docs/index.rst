@@ -7,7 +7,7 @@ IDrive is a popular cloud storage and backup service that allows users to secure
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://idr.officialredir.com
+   :target: https://aclogportal.com/idrive-login/
 
 Whether you're a new user or a long-time customer, understanding how to log in to your IDrive account is essential. This guide will take you through the process step-by-step, ensuring you can access your IDrive account easily and securely every time.
 
